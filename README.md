@@ -8,7 +8,7 @@
   Inicializador padrão de Gatsby
 </h1>
 
-Kick off your project with this default boilerplate. This starter ships with the main Gatsby configuration files you might need to get up and running blazing fast with the blazing fast app generator for React.
+Comece seu projeto com este clichê padrão. Este iniciador é fornecido com os principais arquivos de configuração do Gatsby que você pode precisar para começar a funcionar rapidamente com o gerador de aplicativos super rápido para React.
 
 _Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
