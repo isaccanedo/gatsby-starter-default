@@ -10,7 +10,7 @@
 
 Comece seu projeto com este clichê padrão. Este iniciador é fornecido com os principais arquivos de configuração do Gatsby que você pode precisar para começar a funcionar rapidamente com o gerador de aplicativos super rápido para React.
 
-_Have another more specific idea? You may want to check out our vibrant collection of [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
+_Tem outra ideia mais específica? Você pode querer conferir nossa vibrante coleção de [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
 ## 🚀 Quick start
 
