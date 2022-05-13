@@ -12,7 +12,7 @@ Comece seu projeto com este clichê padrão. Este iniciador é fornecido com os 
 
 _Tem outra ideia mais específica? Você pode querer conferir nossa vibrante coleção de [official and community-created starters](https://www.gatsbyjs.com/docs/gatsby-starters/)._
 
-## 🚀 Quick start
+## 🚀 Começo rápido
 
 1.  **Create a Gatsby site.**
 
