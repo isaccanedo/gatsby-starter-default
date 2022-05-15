@@ -14,7 +14,7 @@ _Tem outra ideia mais específica? Você pode querer conferir nossa vibrante col
 
 ## 🚀 Começo rápido
 
-1.  **Create a Gatsby site.**
+1.  **Criar um site Gatsby**
 
     Use the Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) to create a new site, specifying the default starter.
 
