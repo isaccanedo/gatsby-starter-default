@@ -19,7 +19,7 @@ _Tem outra ideia mais específica? Você pode querer conferir nossa vibrante col
     Use o Gatsby CLI ([install instructions](https://www.gatsbyjs.com/docs/tutorial/part-0/#gatsby-cli)) para criar um novo site, especificando o inicializador padrão.
 
     ```shell
-    # create a new Gatsby site using the default starter
+    # crie um novo site Gatsby usando o inicializador padrão
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
