@@ -23,7 +23,7 @@ _Tem outra ideia mais específica? Você pode querer conferir nossa vibrante col
     gatsby new my-default-starter https://github.com/gatsbyjs/gatsby-starter-default
     ```
 
-1.  **Start developing.**
+1.  **Comece a desenvolver**
 
     Navigate into your new site’s directory and start it up.
 
