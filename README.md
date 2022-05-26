@@ -40,7 +40,7 @@ _Tem outra ideia mais específica? Você pode querer conferir nossa vibrante col
 
     Open the `my-default-starter` directory in your code editor of choice and edit `src/pages/index.js`. Save your changes and the browser will update in real time!
 
-## 🚀 Quick start (Gatsby Cloud)
+## 🚀 Início rápido (Gatsby Cloud)
 
 Implante este iniciador com um clique em [Gatsby Cloud](https://www.gatsbyjs.com/cloud/):
 
