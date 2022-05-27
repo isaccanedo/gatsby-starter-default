@@ -46,7 +46,7 @@ Implante este iniciador com um clique em [Gatsby Cloud](https://www.gatsbyjs.com
 
 [<img src="https://www.gatsbyjs.com/deploynow.svg" alt="Deploy to Gatsby Cloud">](https://www.gatsbyjs.com/dashboard/deploynow?url=https://github.com/gatsbyjs/gatsby-starter-default)
 
-## 🧐 What's inside?
+## 🧐 O que tem dentro?
 
 A quick look at the top-level files and directories you'll see in a Gatsby project.
 
