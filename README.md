@@ -48,7 +48,7 @@ Implante este iniciador com um clique em [Gatsby Cloud](https://www.gatsbyjs.com
 
 ## 🧐 O que tem dentro?
 
-A quick look at the top-level files and directories you'll see in a Gatsby project.
+Uma rápida olhada nos arquivos e diretórios de nível superior que você verá em um projeto Gatsby.
 
     .
     ├── node_modules
