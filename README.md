@@ -68,7 +68,7 @@ Uma rápida olhada nos arquivos e diretórios de nível superior que você verá
 
 2.  **`/src`**: Esse diretório conterá todo o código relacionado ao que você verá no front-end do seu site (o que você vê no navegador), como o cabeçalho do site ou um modelo de página. src é uma convenção para “código-fonte”.
 
-3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
+3.  **`.gitignore`**: Este arquivo diz ao git quais arquivos ele não deve rastrear / não manter um histórico de versão para.
 
 4.  **`.prettierrc`**: This is a configuration file for [Prettier](https://prettier.io/). Prettier is a tool to help keep the formatting of your code consistent.
 
