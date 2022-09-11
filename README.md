@@ -66,7 +66,7 @@ Uma rápida olhada nos arquivos e diretórios de nível superior que você verá
 
 1.  **`/node_modules`**: Este diretório contém todos os módulos de código dos quais seu projeto depende (pacotes npm) são instalados automaticamente..
 
-2.  **`/src`**: This directory will contain all of the code related to what you will see on the front-end of your site (what you see in the browser) such as your site header or a page template. `src` is a convention for “source code”.
+2.  **`/src`**: Esse diretório conterá todo o código relacionado ao que você verá no front-end do seu site (o que você vê no navegador), como o cabeçalho do site ou um modelo de página. src é uma convenção para “código-fonte”.
 
 3.  **`.gitignore`**: This file tells git which files it should not track / not maintain a version history for.
 
